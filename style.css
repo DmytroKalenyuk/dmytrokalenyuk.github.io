@@ -13,3 +13,13 @@ body{
     margin-left: 300px;
     margin-top: 50px;
   }
+
+  .mobile-text {
+    text-align: left !important;
+  }
+  
+  @media (max-device-width: 600px) {
+    .mobile-text {
+      text-align: center !important;
+    }
+  }

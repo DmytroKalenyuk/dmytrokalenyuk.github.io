@@ -2,7 +2,6 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
 
 body{
@@ -64,12 +63,25 @@ a:active {
   text-align: center;
 }
 
+
 img{
   width: 41px;
 }
 
 .smc {
   background-color: rgb(0, 0, 0, 0.8);
+}
+
+.vela{
+  width: 13px;
+  height: 35px;
+}
+
+.foto{
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 }
@@ -118,4 +130,16 @@ p{
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: 1000;
 }
+
+.vela{
+  width: 15px;
+}
+
+.foto{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 320px;
+}
+
 }
